@@ -12,7 +12,7 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: OkQ/HdqF0t9EBEX5OU2rLzoagU0k5ZocklCF2vOaFaoeJatNlTwhRVs4SY7LrjhhMi8sWUPEH07k399s49kP9eOWwhNnRs25vKMTPaD1UIa2kRzCHO+/ksuMoHHVoDdpfg53fA6WdiTDngQyC8a5zg==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: test/output.txt
     visible: false
@@ -20,5 +20,8 @@ files:
   - name: test/input.txt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 10:42:39 UTC"
 record: -1

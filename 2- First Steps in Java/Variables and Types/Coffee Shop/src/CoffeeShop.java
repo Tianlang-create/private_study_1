@@ -5,6 +5,10 @@ public class CoffeeShop
       /* Declare and initialize the variables used below. */
       /* Type your answer here */
 
+      String customerName="Adel";
+      int cups=2;
+      double cost=5.9;
+      boolean takeAway=true;
       System.out.println("Dear " + customerName + ", thank you for visiting our Coffee Shop.");
       System.out.println("You ordered " + cups + " cups of coffee.");
       System.out.println("Your total is: $" + cost * cups + ".");
