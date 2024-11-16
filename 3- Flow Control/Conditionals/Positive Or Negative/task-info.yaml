@@ -7,15 +7,18 @@ files:
     visible: true
     placeholders:
       - offset: 113
-        length: 28
+        length: 44
         placeholder_text: /* Write your answer here */
         initial_state:
           length: 28
           offset: 113
         initialized_from_dependency: false
         encrypted_possible_answer: 0S73LtCZPOC4XmOID7Ctnw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 10:59:20 UTC"
 record: -1

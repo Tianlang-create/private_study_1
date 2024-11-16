@@ -19,9 +19,14 @@ files:
           offset: 166
         initialized_from_dependency: false
         encrypted_possible_answer: f9rizCncCsuWKB6phYktjK6X8PJ5hVmZlfYf/rQeglQYuXA1UrJsn6/6gflfJaZY
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 11:01:13 UTC"
 record: -1
+selected_options:
+  - 1
 local_check: true

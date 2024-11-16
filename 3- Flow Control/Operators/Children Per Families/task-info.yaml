@@ -24,8 +24,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: MJMlA8EqBbmLDkzAIeid2oNpM2eFL6i4FaD+bwEm6hM=
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 10:57:38 UTC"
 record: -1
+selected_options:
+  - 1
+  - 2
 local_check: true

@@ -4,6 +4,7 @@ public class PositiveOrNegative {
         int x = 100;
 
         /* Write your answer here */
+        if(x>0)
         {
             System.out.println("x is positive");
         }

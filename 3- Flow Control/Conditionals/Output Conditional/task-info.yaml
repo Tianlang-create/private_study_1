@@ -23,6 +23,11 @@ files:
   - name: test/input.txt
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 11:01:28 UTC"
 record: -1
+selected_options:
+  - 3
 local_check: true

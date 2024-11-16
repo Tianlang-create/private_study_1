@@ -13,6 +13,13 @@ files:
   - name: src/BooleanExpressions.java
     visible: true
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 16 Nov 2024 10:52:41 UTC"
 record: -1
+selected_options:
+  - 1
+  - 2
+  - 3
 local_check: true
