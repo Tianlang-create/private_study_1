@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Chained conditional
+    is_correct: false
+  - text: Nested conditional
+    is_correct: true
+files:
+  - name: src/ChainedVsNested.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

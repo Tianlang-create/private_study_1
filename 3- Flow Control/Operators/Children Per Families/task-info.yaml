@@ -1,0 +1,31 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: children/families
+    is_correct: false
+  - text: (double) children / families
+    is_correct: true
+  - text: children/(double)families
+    is_correct: true
+  - text: double (children ) / double (families)
+    is_correct: false
+  - text: (int) children / families
+    is_correct: false
+files:
+  - name: src/ChildrenPerFamilies.java
+    visible: true
+    placeholders:
+      - offset: 235
+        length: 27
+        placeholder_text: /* Children per Families */
+        initial_state:
+          length: 27
+          offset: 235
+        initialized_from_dependency: false
+        encrypted_possible_answer: MJMlA8EqBbmLDkzAIeid2oNpM2eFL6i4FaD+bwEm6hM=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

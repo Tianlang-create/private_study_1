@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "true"
+    is_correct: false
+  - text: "false"
+    is_correct: true
+files:
+  - name: src/LogicalBoolean.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

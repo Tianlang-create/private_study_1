@@ -1,0 +1,21 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/PositiveOrNegative.java
+    visible: true
+    placeholders:
+      - offset: 113
+        length: 28
+        placeholder_text: /* Write your answer here */
+        initial_state:
+          length: 28
+          offset: 113
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0S73LtCZPOC4XmOID7Ctnw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

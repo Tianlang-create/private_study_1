@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":2-_First_Steps_in_Java-First_Steps_in_Java-Java_Program:test" external.linked.project.path="$MODULE_DIR$/../../../../../2- First Steps in Java/First Steps in Java/Java Program" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_Programming_Basics" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../2- First Steps in Java/First Steps in Java/Java Program/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../2- First Steps in Java/First Steps in Java/Java Program/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../2- First Steps in Java/First Steps in Java/Java Program/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java_Programming_Basics.2-_First_Steps_in_Java-First_Steps_in_Java-Java_Program.main" />
+    <orderEntry type="module" module-name="Java_Programming_Basics.util.main" />
+    <orderEntry type="module" module-name="Java_Programming_Basics.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Java_Programming_Basics.2-_First_Steps_in_Java-First_Steps_in_Java-Java_Program.main" />
+</module>

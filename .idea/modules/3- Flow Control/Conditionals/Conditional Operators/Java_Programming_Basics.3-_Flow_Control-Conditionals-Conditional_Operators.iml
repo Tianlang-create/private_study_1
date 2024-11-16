@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":3-_Flow_Control-Conditionals-Conditional_Operators" external.linked.project.path="$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Operators" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_Programming_Basics" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Operators">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Operators/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Operators/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Operators/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

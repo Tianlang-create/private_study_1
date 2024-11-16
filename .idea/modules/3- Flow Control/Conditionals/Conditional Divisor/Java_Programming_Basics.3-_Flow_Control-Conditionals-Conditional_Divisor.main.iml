@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":3-_Flow_Control-Conditionals-Conditional_Divisor:main" external.linked.project.path="$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Divisor" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_Programming_Basics" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Divisor/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Divisor/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../3- Flow Control/Conditionals/Conditional Divisor/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java_Programming_Basics.util.main" />
+  </component>
+</module>

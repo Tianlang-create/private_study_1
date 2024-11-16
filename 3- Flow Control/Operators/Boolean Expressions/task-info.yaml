@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: (t || !f) == (2*z <= z)
+    is_correct: false
+  - text: (x >= y)
+    is_correct: true
+  - text: -y/x == z
+    is_correct: true
+  - text: (!t == f) != (y+z/x > x-y*z)
+    is_correct: true
+files:
+  - name: src/BooleanExpressions.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true
